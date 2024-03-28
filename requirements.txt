@@ -1,0 +1,7 @@
+ipykernel
+jupyter notebook
+sklearn
+matplotlib
+pandas
+seaborn
+PyQt5
